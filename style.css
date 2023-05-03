@@ -1,5 +1,3 @@
-#op {
-  background-color: blue;
-  background-image: image("61LKW79NWiL._AC_SX425_.jpg");
-  color-scheme: black;
+#body {
+  background-image: url("61LKW79NWiL._AC_SX425_.jpg");
 }
